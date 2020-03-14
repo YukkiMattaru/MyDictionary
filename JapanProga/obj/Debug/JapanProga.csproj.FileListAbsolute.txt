@@ -1,0 +1,40 @@
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\bin\Debug\JapanProga.exe.config
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\bin\Debug\JapanProga.exe
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\bin\Debug\JapanProga.pdb
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.csprojResolveAssemblyReference.cache
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.Form1.resources
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.Properties.Resources.resources
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.csproj.GenerateResource.Cache
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.exe
+c:\users\yukkimattaru\documents\visual studio 2015\Projects\JapanProga\JapanProga\obj\Debug\JapanProga.pdb
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.csprojResolveAssemblyReference.cache
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.Form1.resources
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.Properties.Resources.resources
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.csproj.GenerateResource.Cache
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.csproj.CoreCompileInputs.cache
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.exe
+D:\JapanProga\JapanProga\obj\Debug\JapanProga.pdb
+D:\JapanProga\JapanProga\bin\Debug\JapanProga.exe.config
+D:\JapanProga\JapanProga\bin\Debug\JapanProga.exe
+D:\JapanProga\JapanProga\bin\Debug\JapanProga.pdb
+G:\JapanProga\JapanProga\bin\Debug\JapanProga.exe.config
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.exe
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.pdb
+G:\JapanProga\JapanProga\bin\Debug\JapanProga.exe
+G:\JapanProga\JapanProga\bin\Debug\JapanProga.pdb
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.csprojResolveAssemblyReference.cache
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.Form1.resources
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.Properties.Resources.resources
+G:\JapanProga\JapanProga\obj\Debug\JapanProga.csproj.GenerateResource.Cache
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\bin\Debug\JapanProga.exe.config
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.exe
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.pdb
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\bin\Debug\JapanProga.exe
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\bin\Debug\JapanProga.pdb
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.csprojResolveAssemblyReference.cache
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.Form1.resources
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.Properties.Resources.resources
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.csproj.GenerateResource.Cache
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.Form2.resources
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.AddText.resources
+C:\Users\YukkiMattaru\Documents\JapanProgaCurrent0205\JapanProga\obj\Debug\JapanProga.FormSize.resources
